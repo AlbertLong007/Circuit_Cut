@@ -1,6 +1,6 @@
 # Measure-and-Prepare Based Quantum Circuit Cut Algorithm
 
-The code by Team **QA** in [3rd CCF Sinan Cup](https://learn.originqc.com.cn/contest), won **Special Award** in quantum-supercomputing track (**National Only**).
+The code by Team **QA** in [3rd CCF Sinan Cup](https://learn.originqc.com.cn/contest), won **Outstanding Award** in quantum-supercomputing track (**National Only**).
 
 ## Dependencies
 
